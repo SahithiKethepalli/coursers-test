@@ -31,32 +31,39 @@ h2
   border: 3px solid black;
 }
 .titlechicken {
-	position: relative;
-	left: 72%;
+	position: absolute;
+	/*left: 72%;*/
+	right: 0px;
 	margin-top: 0px;
-	top: -6%;
+	top: 0px;
 	background: blue;
-	width: 32%;
-	border: 3px solid black;
+	/*width: 29%;*/
+	border-left: 3px solid black;
+	border-bottom: 3px solid black;
 
 }
 .titlebeef {
-	position: relative;
-	left: 75%;
+	position: absolute;
+	/*left: 75%;*/
+	right: 0px;
 	margin-top: 0px;
-	top: -6%;
+	top: 0px;
 	background: green;
-	width: 29%;
-	border: 3px solid black;
+	/*width: 29%;*/
+	border-left: 3px solid black;
+	border-bottom: 3px solid black;
+
 }
 .titlesushi {
-	position: relative;
-	left: 75%;
+	position: absolute;
+	/*left: 75%;*/
+	right: 0px;
 	margin-top: 0px;
-	top: -6%;
+	top: 0px;
 	background: red;
-	width: 29%;
-	border: 3px solid black;
+	/*width: 29%;*/
+	border-left: 3px solid black;
+	border-bottom: : 3px solid black;
 }
 
 .row {
